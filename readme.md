@@ -68,4 +68,4 @@ docker compose -f docker-compose-nvidia.yaml exec ollama bash
 ollama pull llama3.1:8b
 ```
 
-You can check more models here: [https://ollama.com/library](https://ollama.com/library)
+You can check more models here: [https://ollama.com/library](https://ollama.com/library)# ollama-ruby-app

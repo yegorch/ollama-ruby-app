@@ -1,7 +1,7 @@
 require 'ollama-ai'
 
 client = Ollama.new(
-  credentials: { address: 'http://localhost:11434' }
+  credentials: { address: 'http://127.0.0.1:11434' }
 )
 
 result = client.generate(
